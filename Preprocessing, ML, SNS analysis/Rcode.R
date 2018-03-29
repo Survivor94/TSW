@@ -160,6 +160,7 @@ Userscorer <- function(tobescoreddataframe, scoredwordsframe)
         j = j + 1
       }
     }
+    i = i + 1
   }
   tobescoreddataframe <- tobescoreddataframe[[2]] > (4*(1/3))
   tobescoreddataframe[[1]]
