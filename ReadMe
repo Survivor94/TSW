@@ -1,0 +1,7 @@
+The C# collector goes first, and the code is located in program.cs. To run the file, a console dialog program is needed such as Visual Studios C#.
+After, for initialization, the path needs to be changed to the folder where all the forum posts can be found.
+The process of loading occurs and will load into a folder at the desktop.
+
+Furthermore, the R-code contains more preprocessing for the committed .CSV file.
+Be cautious that some algorithms in the code can be quite costly in terms of computational complexity.
+
